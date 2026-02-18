@@ -46,6 +46,7 @@ const items: NavigationMenuItem[] = [
         aria-label="X"
       />
       <UButton
+      
         icon="i-simple-icons-github"
         color="neutral"
         variant="ghost"
